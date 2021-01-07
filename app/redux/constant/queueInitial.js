@@ -1,0 +1,1 @@
+export const QUEUE_INITIAL = 'QUEUE_INITIAL';
